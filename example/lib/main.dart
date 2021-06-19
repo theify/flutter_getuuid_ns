@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'dart:async';
 
 import 'package:flutter/services.dart';
-import 'package:flutter_getuuid_ns/flutter_getuuid.dart';
+import 'package:flutter_getuuid_ns/flutter_getuuid_ns.dart';
 
 void main() => runApp(MyApp());
 

@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_getuuid_ns/flutter_getuuid.dart';
+import 'package:flutter_getuuid_ns/flutter_getuuid_ns.dart';
 
 void main() {
   const MethodChannel channel = MethodChannel('flutter_getuuid');
